@@ -5,11 +5,16 @@
 ### Personal information
 
 Name: Martin Björåsen
+
 Student Number: s3775649
+
 Email address: S3775649@student.rmit.edu.au
+
 GitHub URL: https://martinbjr.github.io/
 
+
 Basic background: 
+
 I am a HVAC engineering student who has recently taken an interest in programming and I wish to develop my skills such that I am able to work as a software engineer. 
 
 
