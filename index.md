@@ -13,7 +13,7 @@ Email address: S3775649@student.rmit.edu.au
 GitHub URL: https://martinbjr.github.io/
 
 
-Basic background: 
+### Basic background: 
 
 I am a HVAC engineering student who has recently taken an interest in programming and I wish to develop my skills such that I am able to work as a software engineer. 
 
@@ -32,6 +32,9 @@ I am expecting to learn how to program software and to be more familiar with cre
 
 
 ### Ideal Job
+
+NOTE: I was unable to figure out how to upload images to GitHub pages. Hence there are no images on the GitHub website. See the PDF document for the pictures.
+
 https://www.seek.com.au/job/50101378?type=promoted#searchRequestToken=1b0a2c8f-0bd0-47bc-9609-f61efd55e9f5
 
 
@@ -48,10 +51,11 @@ There isn’t much I believe I can do for my communication skills outside of pre
 
 ### Personal Profile:
 
+NOTE: I was unable to figure out how to upload images to GitHub pages. Hence there are no images on the GitHub website. See the PDF document for the pictures.
 
 Free online Myer-Briggs based test results[ Personality Test of Myer & Briggs’ 16 Types.[online] Truity. Available at: https://www.truity.com/[accessed June 20)
 ]:
-NOTE: The authentic Myers-Briggs test requires money, which I am short of. As such I used a test which is allegedly based on the Myer-Briggs test.
+SECOND NOTE: The authentic Myers-Briggs test requires money, which I am short of. As such I used a test which is allegedly based on the Myer-Briggs test.
 
 
 
@@ -64,7 +68,7 @@ NOTE: The authentic Myers-Briggs test requires money, which I am short of. As su
 Learning Style Test[ What’s your learning style? 20 Questions. [online] Education Planner. Available at: http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml[accessed June 20)
 ]:
 
-
+NOTE: I was unable to figure out how to upload images to GitHub pages. Hence there are no images on the GitHub website. See the PDF document for the pictures.
 
 
 
@@ -73,7 +77,7 @@ Learning Style Test[ What’s your learning style? 20 Questions. [online] Educat
 
 Creativity Test[ Test My Creativity- [online]. Test My Creativity. Available at: http://www.testmycreativity.com/(accessed June 20)]:
 
-
+NOTE: I was unable to figure out how to upload images to GitHub pages. Hence there are no images on the GitHub website. See the PDF document for the pictures.
 
 
 
