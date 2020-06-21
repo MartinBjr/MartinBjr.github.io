@@ -1,57 +1,17 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/MartinBjr/MartinBjr.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-Hello World!D2
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MartinBjr/MartinBjr.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-
-
 ### GitHub intro to IT assignment 1
 
 
 
 ### Personal information
 
-### Name: Martin Björåsen
-### Student Number: s3775649
-### Email address:
-S3775649@student.rmit.edu.au
+Name: Martin Björåsen
+Student Number: s3775649
+Email address: S3775649@student.rmit.edu.au
+GitHub URL: https://martinbjr.github.io/
 
-### Basic background: 
+Basic background: 
 I am a HVAC engineering student who has recently taken an interest in programming and I wish to develop my skills such that I am able to work as a software engineer. 
+
 
 
 
@@ -61,6 +21,8 @@ My interest in IT stems from playing video games, and using engineering software
 I chose RMIT as I believe RMIT will be able to provide the necessary skills I desire in order to fulfil my objective. The IT bachelor degree is going to be necessary if I want to work in any IT related field.
 
 I am expecting to learn how to program software and to be more familiar with creating solutions to any problem I encounter.
+
+
 
 
 
@@ -74,6 +36,8 @@ In my opinion, a software engineer is akin to its namesake; an engineer who crea
 With respect to the job requirements mentioned in the advertisement, I believe I lack the programming skills required to perform any sort of technical work for this job. My communication skills I believe are up to standard, but I do not have much experience being in meetings or directing / instructing others. 
 To try and amend the problems I have, I will try to start small by making similarly small programs. Which will increase in complexity and size as my experience becomes greater. The idea is to take on as many and as varied tasks as possible to increase my knowledge and experience, with regards to programming. 
 There isn’t much I believe I can do for my communication skills outside of preparing scripts and material, such that I can constantly refer to something as I attempt to convey information during meetings. I believe the key to being good at meetings, in my case, will be through preparation and experience.
+
+
 
 
 
@@ -110,6 +74,9 @@ Creativity Test[ Test My Creativity- [online]. Test My Creativity. Available at:
 
 The results of these tests do not really surprise me, as they are mostly in line with what I think of myself as well. 
 The impact of these results is that I would be categorized within the “introvert” personality. This means that I need to be comparatively more expressive towards others when in a team or group related task, in order to better cooperate and complete said task.
+
+
+
 
 
 
